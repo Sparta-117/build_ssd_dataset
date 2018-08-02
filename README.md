@@ -10,3 +10,4 @@
 - ros kinetic
 - opencv 2
 - eigen
+- 硬件：realsense sr300
